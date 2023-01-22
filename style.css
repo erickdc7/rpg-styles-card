@@ -12,6 +12,7 @@ body {
   align-items: center;
   background: #222;
   overflow: hidden;
+  margin: 0 0 0 0;
 }
 
 .card {
