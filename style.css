@@ -100,6 +100,20 @@ body {
 }
 
 .card:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
+}
+
+@media screen and (max-width: 370px) {
+  .card {
+    grid-template-columns: 250px;
+  }
+
+  .card-text {
+    margin: 15px;
+  }
+
+  .card:hover {
+    transform: scale(1);
+  }
 }
