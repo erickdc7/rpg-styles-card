@@ -1,4 +1,4 @@
-# RPG Styles Card with Hover Effect - HTML/CSS
-### This design belongs to [Red Stapler](https://www.youtube.com/@RedStapler_channel), you can see the video [here](https://youtu.be/cwC1qdPWBKo).
+# RPG Styles Card
+### This design is inspired by the work of [Red Stapler](https://www.youtube.com/@RedStapler_channel). Click [here](https://youtu.be/cwC1qdPWBKo) to watch the video.
 
 ![preview img](/preview.png)
